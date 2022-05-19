@@ -1,7 +1,6 @@
 # Compound Interest Calculator
 
-## Demo
-https://compoundcalculator.zaker.dev/
+## Link
 
 ## Test 
 1. Download or clone the repo. 
@@ -10,6 +9,3 @@ https://compoundcalculator.zaker.dev/
 
 ### Version
 1.0.0
-
-### License
-MIT
