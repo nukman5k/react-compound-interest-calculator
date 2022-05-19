@@ -1,6 +1,7 @@
 # Compound Interest Calculator
 
 ## Link
+https://react-compound-interest-calculator.netlify.app/
 
 ## Test 
 1. Download or clone the repo. 
